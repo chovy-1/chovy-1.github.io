@@ -1,0 +1,4 @@
+# 本地分享包与系统文件
+.trae-html-share-packages/
+.DS_Store
+Thumbs.db
