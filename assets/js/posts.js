@@ -4,8 +4,8 @@
 
 const SITE = {
   name: "chovyy1",
-  email: "chovyy1@example.com",
-  github: "https://github.com/chovyy1",
+  email: "chovy-1@users.noreply.github.com",
+  github: "https://github.com/chovy-1",
 };
 
 /* -------------------------------------------------------------
